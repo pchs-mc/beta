@@ -1,0 +1,1 @@
+C:/mc/java/bin/java.exe -jar C:/mc/launcher.jar
